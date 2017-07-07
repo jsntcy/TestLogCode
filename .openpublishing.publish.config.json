@@ -18,7 +18,10 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "monikers": [
+        "yu-test-0.5.3"
+        ]
     }
   ],
   "notification_subscribers": [],
