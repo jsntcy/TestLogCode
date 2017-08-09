@@ -2,9 +2,6 @@
   "build_entry_point": "docs",
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
-  "continue_with_document_error": true,
-  "git_repository_url_open_to_public_contributors": "https://github.com/fenxu/testMultiVersion",
-  "git_repository_branch_open_to_public_contributors": "master",
   "docsets_to_publish": [
     {
       "docset_name": "TestLogCode_ychenu",
@@ -12,7 +9,7 @@
       "build_output_subfolder": "TestLogCode",
       "locale": "en-us",
       "monikers": [],
-      "moniker_groups": [],
+      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -20,11 +17,14 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": []
     }
   ],
   "notification_subscribers": [],
   "branches_to_filter": [],
+  "git_repository_url_open_to_public_contributors": "https://github.com/fenxu/testMultiVersion",
+  "git_repository_branch_open_to_public_contributors": "master",
   "skip_source_output_uploading": false,
   "dependent_repositories": [
     {
