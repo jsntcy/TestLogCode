@@ -19,6 +19,23 @@
       "build_entry_point": "docs",
       "template_folder": "_themes",
       "moniker_groups": []
+    },
+    {
+      "docset_name": "seconddocset",
+      "build_source_folder": "seconddocset",
+      "build_output_subfolder": "seconddocset",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes",
+      "version": 0
     }
   ],
   "notification_subscribers": [],
