@@ -6,7 +6,7 @@
     {
       "docset_name": "TestLogCode_ychenu",
       "build_source_folder": "TestLogCode",
-      "build_output_subfolder": "TestLogCode",
+      "build_output_subfolder": "",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
