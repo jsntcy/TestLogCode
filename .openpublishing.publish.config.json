@@ -37,7 +37,7 @@
     }
   ],
   "notification_subscribers": [
-    "test@abc.com"
+    "test@abc.com1"
   ],
   "sync_notification_subscribers": [],
   "branches_to_filter": [],
